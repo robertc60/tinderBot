@@ -1,4 +1,4 @@
 venv/
 .vsvode/
 secrets.py
-secrets/pyc
+secrets.pyc
